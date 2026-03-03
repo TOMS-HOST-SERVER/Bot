@@ -54,7 +54,7 @@ from telegram.ext import (
 # ======================
 # CONFIG & DATABASE
 # ======================
-BOT_TOKEN = "7947096084:AAHEY4WElwTCqcucDT7XJuWOvXxilikNhd8"  # ⚠️ CHANGE TO YOUR BOT TOKEN
+BOT_TOKEN = "8580641268:AAEeit6Bn7P6ZIUmYU3gOqJctCKYU8uAj8Y"  # ⚠️ CHANGE TO YOUR BOT TOKEN
 USER_DATA_FILE = "user_data.json"
 MAX_FILE_SIZE = 5 * 1024 * 1024  # 5MB
 
@@ -926,4 +926,5 @@ def main():
         sys.exit(1)
 
 if __name__ == "__main__":
+
     main()
